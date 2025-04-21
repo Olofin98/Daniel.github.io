@@ -1,0 +1,12 @@
+---
+title: "Update and Events"
+---
+
+![Daniel Olofin  was selected as a Student Scholar for PharmaSUG 2025 (San Diego, CA) in recognition of excellence in statistical programming.](Scholarship.png){fig-align="center" width="500px"}
+
+
+
+![Daniel Olofin presenting his project at Fred Hutch Cancer Center Data Science Lab During Data Science for Environmental Health Workshop.](Fred2.jpg){fig-align="center" width="500px"}
+
+![Daniel Olofin delivering hands-on training in medical statistics using R programming to a diverse audience including clinicians, researchers, physicians, and students at Stat101 organized by StatsClinic.](rdan.png){fig-align="center" width="500px"}
+

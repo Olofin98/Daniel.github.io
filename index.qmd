@@ -1,0 +1,34 @@
+---
+title: "Olofin DO"
+about: 
+  template: trestles
+  image: mypicture.jpg
+  links:
+    - icon: linkedIn
+      text: LinkedIn
+      href: https://linkedin.com/in/olofin-daniel-a489161ab
+    - icon: github
+      text: Github
+      href: https://github.com/Olofin98
+    - icon: Medium
+      text: Medium
+      href: https://medium.com/@olofindantit
+    - icon: email
+      text: Email
+      href: "mailto:olofindantit@gmail.com"
+    - icon: Google Scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=vACy4ucAAAAJ
+---
+
+### About Me
+
+Hello! I’m **Daniel Oluwafemi Olofin**, a passionate and driven Master’s student in **Mathematical Sciences with a concentration in Statistics** at **Georgia Southern University**, USA. With a strong foundation in biostatistics and computational methodologies, I am deeply invested in leveraging data science, artificial intelligence, and statistical modeling to solve complex problems in healthcare, especially within clinical trials and oncology drug development.
+
+### Current Academic Focus
+
+At Georgia Southern, my academic journey is centered on **biostatistical methods**, **computational biology**, and **AI applications in clinical research**. I am particularly interested in the development and application of **statistical machine learning techniques** to improve **drug discovery**, **personalized medicine**, and **oncology treatment outcomes**. My coursework and research experiences continue to strengthen my ability to bridge theory with real-world health challenges.
+
+### Hobbies & Interests
+
+Outside of academics and research, I enjoy reading research papers, solving statistical puzzles, occasionally competing in academic quizzes, playing guitar, listening to music, and indulging in Mortal Kombat for some fun and relaxation.

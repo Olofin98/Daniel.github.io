@@ -1,0 +1,37 @@
+---
+title: "Motivation and Achievements"
+---
+
+### Motivation
+
+My motivation is deeply rooted in the desire to make a tangible impact in the **pharmaceutical and healthcare industry**. I am fascinated by how data can unravel hidden patterns, improve decision-making, and ultimately save lives. This passion for using data to drive change fuels my dedication to research and innovation in public health, drug efficacy evaluation, and precision medicine.
+
+### Achievements
+
+-   **Martha L. Abell Endowed Scholarship**, Georgia Southern University – *\$1,490 (2025)* - Awarded for outstanding academic performance in Mathematical Sciences.
+
+-   **PharmaSUG 2025 Student Scholarship** – *June 2025.* Recipient of a competitive scholarship to attend the PharmaSUG 2025 Conference, recognizing excellence in statistical programming and data analytics.
+
+-   **Student Government Travel Award**, Georgia Southern University – *March 2025.* Awarded a competitive \$500.00 travel grant to support attendance at the PharmaDS 2025 Conference, recognizing academic excellence in statistics and data science with applications in drug discovery and development.
+
+-   **Travel Support Award**, Fred Hutch Cancer Center, Seattle, WA – *October 2024* - Granted \$1,710.30 in travel support to participate in the prestigious Data Science for Environmental Health (DaSEH) Short Course.
+
+-   **Statistics Quiz Award** – *February 28, 2024.* Received a one-time cash prize of ₦5,000.00 for exceptional performance in regression analysis during a Statistics quiz conducted by Mr. Hammed A. Akande, M.Sc.
+
+<!-- -->
+
+-   Co-authored multiple peer-reviewed publications, including a recent study on **machine learning models for breast cancer prediction**.
+
+-   Selected to attend the **Data Science for Environmental Health (DaSEH) Short Course 2024** at **Fred Hutch Cancer Center**, with full travel support.
+
+-   Led the development of an **Electronic Health Record system** capturing retrospective data for three clinics at **Lagos State University Teaching Hospital**, Nigeria.
+
+-   Played a vital role in **clinical trial randomization**, **sample size calculation**, and **data analysis** for health-focused projects in collaboration with national and international teams.
+
+-   Delivered statistical training in R and SPSS to over 100 early-career researchers, significantly improving their data analysis skills.
+
+### Goals
+
+In the short term, I aim to build deeper expertise in **Bayesian methods**, **deep learning**, and **multi-omics data integration** for predictive modeling in oncology. I am also actively seeking opportunities for **research internships and collaborations** in pharmaceutical data science.
+
+In the long term, I intend to pursue a **PhD in Statistics, Biostatistics, Bioinformatics, AI in Medicine or Computational Biology**, focusing on the integration of **machine learning** into **cancer drug development**, **biomarker discovery**, and **resistance profiling**. My ultimate goal is to contribute to building smarter, faster, and more personalized solutions in healthcare through data-driven science.

@@ -1,0 +1,33 @@
+---
+title: "Publications"
+author: "Daniel O.O"
+---
+
+## Publications
+
+1.  Ogunnusi, O.N., **Olofin, D.O.**, Abdulwahab, M.O., Olanipekun, I.A., & Ojeniran, T.P. (2024). Modeling and Forecasting the Prevalence of Human Immuno-Deficiency Virus (HIV) in Birnin Gwari Local Government Area of Kaduna State. Applied Research and Innovation (ARI).[Link](https: //doi.org/10.54536/ari.v2i2.3746)
+
+2.  Akintayo, T.A., Oko-Odion, T.U., Egenuka, R.N., Owoeye, M.C., Osei, J.K., **Olofin, D.O.**, Ov- abor, J.T., Oladayo, J.I., Alele, G.O., Adefemi, O.T., Olobayo, D.F., Ifenatuora, C.I., & Okhani, P. (2024). Exploring the Possibilities of AI in Medical Settings: How Artificial Intelligence Can Transform Healthcare and Hospital Operations. International Journal of Advances in Engineering and Management (IJAEM). DOI: 10.35629/5252-06090613.
+
+3.  Ogbe, M.I., Nzeanorue, C.C., Olusola, R.A., **Olofin, D.O.**, Owoeye, M.C., Enabulele, E.C., Ibijola, A.P., Ifechukwu, C.J., & Ayo, O.I. (2024). A comparative study of decision tree and support vector machine for breast cancer prediction. World Journal of Advanced Research and Reviews, 23(01), 746-752. [Link to Article](https://doi.org/10.30574/wjarr.2024.23.1.2024).
+
+## Pre-Prints
+
+1.  Yusuf, M. W., Abioye, A. I., Ademola-Popoola, O., Abubakar, A. K., Olukorode, S. O., Kuyebi, M. A., Yisa, M. N., Musa, J., Oyadiran, O. T., Okusanya, T. R., Ogunlade, S. O., **Olofin, D.O.**, Igho-Osagie, E., Omotayo, M. O., & Adewuya, A. (2025). Prevalence of mental disor- ders among people with neurologic conditions in Nigeria: A systematic review. Research Square. [Link](https://doi.org/10.21203/rs.3.rs-6201113/v1.)
+
+2.  Ogunlade, S. B., Abioye, A. I., Kuyebi, M. A., Musa, J., Abubakar, A. K., Yisa, M. N., Olukorode, S. O., Oyadiran, O. T., Okusanya, T. R., **Olofin, D.O.**, Igho-Osagie, E., Omotayo, M. O., & Adewuya, A. (2025). Prevalence of psychiatric disorders among children and adolescents in Nigeria since 2010: A systematic review and meta-analysis. medRxiv. Cold Spring Harbor Laboratory Press. [Link](https://doi.org/10.1101/2025.02.22.25322718.)
+
+3.  Abubakar, A., Yisa, M. N., Olukorade, S. O., Musa, J., Oyadiran, O. T., Okusanya, T. R., Ogunlade, S. O., Kuyebi, M. A., **Olofin, D.O.**, Omotayo, M. O., & Abioye, A. I. (2025). Prevalence of mental health illness in Nigeria: Protocol for a systematic review and meta-analysis. medRxiv. Cold Spring Harbor Laboratory Press. [Link](https://doi.org/10.1101/2025.02.22.25322716.)
+
+
+## Manuscript Under Review
+
+Ezea, F.C., Idowu, K.O., Adam, U.M., **Olofin, D.O**., Aina, F.S., Ugwu, U.C., Adetokunbo, B.O., Nwankwo, I.I., Efori, B., & Azeez, Y.B. (2024). Mathematical Modelling of Covid-19 Infection Considering Vaccination Breakthrough and Reinfection. Elsevier, Tracking ID.
+
+## Manuscript in Preparation
+
+1.  **Daniel O.O.**, Abdulwahab, M.O., Victor A., & Halleluyah O. (2025). Enhancing Biostatistical Data Visualization in R: Best Practices and Applications in Epidemiology.
+
+2.  **Daniel O.O.**, Ayomide O., Abdulwahab, M.O., Olanipekun, I.A., & Ojeniran, T.P. (2025). Explor- ing the Influence of Clinical and Demographic Factors on the Survival of Breast Cancer Patients: A Survival Analysis of Tumor Characteristics, Hormone Receptor Status, and Patient Profile.
+
+3.  **Daniel, O.O.**, & Ogunnusi, O.N. (2024). Forecasting Monthly HIV Prevalence Trends Using Long Short-Term Memory (LSTM) Networks: A 12-Year Retrospective Study.

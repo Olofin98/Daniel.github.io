@@ -23,7 +23,7 @@ about:
 
 ### About Me
 
-Hello! I’m **Daniel Oluwafemi Olofin**, a passionate and driven Master’s student in **Mathematical Sciences with a concentration in Statistics** at **Georgia Southern University**, USA. With a strong foundation in biostatistics and computational methodologies, I am deeply invested in leveraging data science, artificial intelligence, and statistical modeling to solve complex problems in healthcare, especially within clinical trials and oncology drug development.
+Hello! I’m **Daniel Oluwafemi Olofin**, a passionate and driven Master’s student in **Mathematical Sciences (Statistics concentration)** at **Georgia Southern University**, USA. With a strong foundation in biostatistics and computational methodologies, I am deeply interested in leveraging data science, artificial intelligence, and statistical modeling to solve complex problems in healthcare, particularly within clinical trials and oncology drug development.
 
 ### Current Academic Focus
 

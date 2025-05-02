@@ -2,21 +2,39 @@
 title: "Update and Events"
 ---
 
+- **May 1, 2025** 
+
+![I received a Certification of Recognition of Achievement and Dedication in securing and excelling in an internship opportunity from Office of Career and Professional Development, Georgia Southern University ](internship.png){fig-align="center" width="500px"}
+
+- **April 1, 2025**
+
+I will be joining the Clonal Redesign Lab at the Moffitt Cancer Center for a Summer 2025 internship, where I will contribute to research in cancer genomics and data-driven oncology through computational and statistical methods.
+
 ::: {.row}
 
 ::: {.col-md-6}
+- **March 24, 2025** 
+
 ![Daniel Olofin presenting a poster titled "Time Series Forecasting for HIV Prevalence: An ARIMA Model Approach for Decision-Making" under the supervision of Professor Divine Wanduku at GS4 Student Scholar Symposium, Georgia Southern University.](pic2.jpg){fig-align="center" width="100%"}
 :::
 
 ::: {.col-md-6}
+- **March 24, 2025** 
+
 ![Professor Divine Wanduku and Daniel Olofin at GS4 Student Scholar Symposium, Georgia Southern University.](pic1.jpg){fig-align="center" width="100%"}
 :::
 
 :::
 
 
+- **February 24,2025** 
+
 ![Daniel Olofin was selected as a Student Scholar for PharmaSUG 2025 (San Diego, CA) in recognition of excellence in statistical programming.](Scholarship.png){fig-align="center" width="500px"}
 
+- **October 25, 2024** 
+
 ![Daniel Olofin presenting his project at Fred Hutch Cancer Center Data Science Lab During Data Science for Environmental Health Workshop.](Fred2.jpg){fig-align="center" width="500px"}
+
+- **November 18, 2022** 
 
 ![Daniel Olofin delivering hands-on training in medical statistics using R programming to a diverse audience including clinicians, researchers, physicians, and students at Stat101 organized by StatsClinic.](rdan.png){fig-align="center" width="500px"}

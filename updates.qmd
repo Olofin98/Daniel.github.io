@@ -2,29 +2,34 @@
 title: "Update and Events"
 ---
 
+
+- **May 11, 2025** 
+
+![Excited to share that I've joined the Clonal Redesign Lab at the Departmwnt of Integrated Mathematical Oncology, Moffitt Cancer Center, as a Graduate Research Trainee and Intern. Looking forward to contributung to impactful research and deepening my experience at the intersection of mathemetaics oncology, data science](Mof.jpg){fig-align="center" width="500px"}
+
 - **May 1, 2025** 
 
-![I received a Certification of Recognition of Achievement and Dedication in securing and excelling in an internship opportunity from Office of Career and Professional Development, Georgia Southern University ](internship.png){fig-align="center" width="500px"}
-
-- **April 1, 2025**
-
-I will be joining the Clonal Redesign Lab at the Moffitt Cancer Center for a Summer 2025 internship, where I will contribute to research in cancer genomics and data-driven oncology through computational and statistical methods.
+![I received a Certification of Recognition of Achievement and Dedication in securing and excelling in an internship opportunity from Office of Career and Professional Development, Georgia Southern University ](Internship.png){fig-align="center" width="500px"}
 
 ::: {.row}
 
 ::: {.col-md-6}
-- **March 24, 2025** 
+- **April 24, 2025** 
 
 ![Daniel Olofin presenting a poster titled "Time Series Forecasting for HIV Prevalence: An ARIMA Model Approach for Decision-Making" under the supervision of Professor Divine Wanduku at GS4 Student Scholar Symposium, Georgia Southern University.](pic2.jpg){fig-align="center" width="100%"}
 :::
 
 ::: {.col-md-6}
-- **March 24, 2025** 
+- **April 24, 2025** 
 
 ![Professor Divine Wanduku and Daniel Olofin at GS4 Student Scholar Symposium, Georgia Southern University.](pic1.jpg){fig-align="center" width="100%"}
 :::
 
 :::
+
+- **April 1, 2025**
+
+I will be joining the Clonal Redesign Lab at the Moffitt Cancer Center for a Summer 2025 internship, where I will contribute to research in cancer genomics and data-driven oncology through computational and statistical methods.
 
 
 - **February 24,2025** 

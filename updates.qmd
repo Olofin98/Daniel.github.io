@@ -9,11 +9,8 @@ title: "Update and Events"
 
 - **May 1, 2025** 
 
-![I received a Certification of Recognition of Achievement and Dedication in securing and excelling in an internship opportunity from Office of Career and Professional Development, Georgia Southern University ](internship.png){fig-align="center" width="500px"}
+![I received a Certification of Recognition of Achievement and Dedication in securing and excelling in an internship opportunity from Office of Career and Professional Development, Georgia Southern University ](Internship.png){fig-align="center" width="500px"}
 
-::: {.row}
-
-::: {.col-md-6}
 - **April 24, 2025** 
 
 ![Daniel Olofin presenting a poster titled "Time Series Forecasting for HIV Prevalence: An ARIMA Model Approach for Decision-Making" under the supervision of Professor Divine Wanduku at GS4 Student Scholar Symposium, Georgia Southern University.](pic2.jpg){fig-align="center" width="100%"}

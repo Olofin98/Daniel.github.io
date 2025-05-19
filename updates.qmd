@@ -14,9 +14,6 @@ title: "Update and Events"
 - **April 24, 2025** 
 
 ![Daniel Olofin presenting a poster titled "Time Series Forecasting for HIV Prevalence: An ARIMA Model Approach for Decision-Making" under the supervision of Professor Divine Wanduku at GS4 Student Scholar Symposium, Georgia Southern University.](pic2.jpg){fig-align="center" width="100%"}
-:::
-
-::: {.col-md-6}
 - **April 24, 2025** 
 
 ![Professor Divine Wanduku and Daniel Olofin at GS4 Student Scholar Symposium, Georgia Southern University.](pic1.jpg){fig-align="center" width="100%"}

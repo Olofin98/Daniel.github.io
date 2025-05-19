@@ -9,7 +9,7 @@ title: "Update and Events"
 
 - **May 1, 2025** 
 
-![I received a Certification of Recognition of Achievement and Dedication in securing and excelling in an internship opportunity from Office of Career and Professional Development, Georgia Southern University ](Internship.png){fig-align="center" width="500px"}
+![I received a Certification of Recognition of Achievement and Dedication in securing and excelling in an internship opportunity from Office of Career and Professional Development, Georgia Southern University ](internship.png){fig-align="center" width="500px"}
 
 ::: {.row}
 

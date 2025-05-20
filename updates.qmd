@@ -5,7 +5,7 @@ title: "Update and Events"
 
 - **May 11, 2025** 
 
-![Excited to share that I've joined the Clonal Redesign Lab at the Departmwnt of Integrated Mathematical Oncology, Moffitt Cancer Center, as a Graduate Research Trainee and Intern. Looking forward to contributung to impactful research and deepening my experience at the intersection of mathemetaics oncology, data science](Mof.jpg){fig-align="center" width="500px"}
+![Excited to share that I've joined the Clonal Redesign Lab at the Department of Integrated Mathematical Oncology, Moffitt Cancer Center, as a Graduate Research Trainee and Intern. Looking forward to contributung to impactful research and deepening my experience at the intersection of mathemetaics oncology, data science](Mof.jpg){fig-align="center" width="500px"}
 
 - **May 1, 2025** 
 

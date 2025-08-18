@@ -2,50 +2,49 @@
 title: "Update and Events"
 ---
 
+- **August 10th, 2025**
 
-- **June 2nd, 2025**
+![I am pleased to share that I recently completed my research internship at the Clonal Redesign Lab, Moffitt Cancer Center. This experience allowed me to apply stochastic simulation models and advanced biostatistical methods to study chromosomal instability in cancer cell lines. It has been an incredible opportunity to grow as a researcher and contribute to impactful oncology research.](End.jpg){fig-align="center" width="500px"}
+
+
+-   **June 2nd, 2025**
 
 ![I was honored by the PharmaSUG Conference Committee with a Scholarship Award and Certificate of Achievement for my commitment to advancing clinical research and data science.](pharmasug2.jpg){fig-align="center" width="500px"}
 
-
-- **June 1st - 4th, 2025** 
+-   **June 1st - 4th, 2025**
 
 ![I am pleased to share that I attended the PharmaSUG 2025 Conference not just as an attendee, but as a proud Student Scholarship Recipient. It was an incredible opportunity to engage with experts in Statistical Programming, Clinical Data Science, and Biostatistics.](pharmasug_1.jpg){fig-align="center" width="500px"}
 
-
-- **May 21, 2025**
+-   **May 21, 2025**
 
 I’m thrilled to announce that I have been selected to participate in the **Yale Program to Advance Training in Health and Science (PATHS)**, organized by the Yale School of Medicine Office of Diversity, Equity, and Inclusion. This competitive 10 months program supports the academic and professional development of future leaders in health and biomedical sciences.
 
-- **May 11, 2025** 
+-   **May 11, 2025**
 
 ![Excited to share that I've joined the Clonal Redesign Lab at the Department of Integrated Mathematical Oncology, Moffitt Cancer Center, as a Graduate Research Trainee and Intern. Looking forward to contributung to impactful research and deepening my experience at the intersection of mathemetaics oncology, data science](Mof.jpg){fig-align="center" width="500px"}
 
-- **May 1, 2025** 
+-   **May 1, 2025**
 
 ![I received a Certification of Recognition of Achievement and Dedication in securing and excelling in an internship opportunity from Office of Career and Professional Development, Georgia Southern University](new.png){fig-align="center" width="500px"}
 
-- **April 24, 2025** 
+-   **April 24, 2025**
 
-![Daniel Olofin presenting a poster titled "Time Series Forecasting for HIV Prevalence: An ARIMA Model Approach for Decision-Making" under the supervision of Professor Divine Wanduku at GS4 Student Scholar Symposium, Georgia Southern University.](pic2.jpg){fig-align="center" width="100%"}
-- **April 24, 2025** 
+![Daniel Olofin presenting a poster titled "Time Series Forecasting for HIV Prevalence: An ARIMA Model Approach for Decision-Making" under the supervision of Professor Divine Wanduku at GS4 Student Scholar Symposium, Georgia Southern University.](pic2.jpg){fig-align="center" width="100%"} - **April 24, 2025**
 
 ![Professor Divine Wanduku and Daniel Olofin at GS4 Student Scholar Symposium, Georgia Southern University.](pic1.jpg){fig-align="center" width="100%"}
 
-
-- **April 1, 2025**
+-   **April 1, 2025**
 
 I will be joining the Clonal Redesign Lab at the Moffitt Cancer Center for a Summer 2025 internship, where I will contribute to research in cancer genomics and data-driven oncology through computational and statistical methods.
 
-
-- **February 24,2025** 
+-   **February 24,2025**
 
 ![Daniel Olofin was selected as a Student Scholar for PharmaSUG 2025 (San Diego, CA) in recognition of excellence in statistical programming.](Scholarship.png){fig-align="center" width="500px"}
 
-- **October 25, 2024** 
+-   **October 25, 2024**
 
 ![Daniel Olofin presenting his project at Fred Hutch Cancer Center Data Science Lab During Data Science for Environmental Health Workshop.](Fred2.jpg){fig-align="center" width="500px"}
 
-- **November 18, 2022** 
+-   **November 18, 2022**
 
 ![Daniel Olofin delivering hands-on training in medical statistics using R programming to a diverse audience including clinicians, researchers, physicians, and students at Stat101 organized by StatsClinic.](rdan.png){fig-align="center" width="500px"}

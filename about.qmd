@@ -20,7 +20,6 @@ My motivation is deeply rooted in the desire to make a tangible impact in the **
 
 -   **Statistics Quiz Award** – *February 28, 2024.* Received a one-time cash prize of ₦5,000.00 for exceptional performance in regression analysis during a Statistics quiz conducted by Mr. Hammed A. Akande, M.Sc.
 
-
 -   Co-authored multiple peer-reviewed publications, including a recent study on **machine learning models for breast cancer prediction**.
 
 -   Selected to attend the **Data Science for Environmental Health (DaSEH) Short Course 2024** at **Fred Hutch Cancer Center**, with full travel support.

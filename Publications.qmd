@@ -5,7 +5,7 @@ author: "Daniel O.O"
 
 ## Publications
 
-1.  Okwukwu, M., Olofin, D. O., & Taiwo, A. A. (2025). Artificial Intelligence in Nigeria Healthcare: A Review of State, Challenges and Opportunities. *EthAIca: Journal of Ethics, AI and Critical Analysis,* (4), 210. AG Editor (Argentina). [Link](https://dialnet.unirioja.es/servlet/articulo?codigo=10314493)
+1.  Okwukwu, M., **Olofin, D. O.**, & Taiwo, A. A. (2025). Artificial Intelligence in Nigeria Healthcare: A Review of State, Challenges and Opportunities. *EthAIca: Journal of Ethics, AI and Critical Analysis,* (4), 210. AG Editor (Argentina). [Link](https://dialnet.unirioja.es/servlet/articulo?codigo=10314493)
 
 2.  Ogunnusi, O.N., **Olofin, D.O.**, Abdulwahab, M.O., Olanipekun, I.A., & Ojeniran, T.P. (2024). Modeling and Forecasting the Prevalence of Human Immuno-Deficiency Virus (HIV) in Birnin Gwari Local Government Area of Kaduna State. Applied Research and Innovation (ARI).[Link](https:%20//doi.org/10.54536/ari.v2i2.3746)
 

@@ -2,13 +2,11 @@
 title: "Projects"
 ---
 
-1. **Clinical Visualization Gallery — Colon Cancer Data**
+1. **Clinical Visualization Gallery — Colon Cancer Data:** Built in **R** using `ggplot2` and `survminer`, this project visualizes survival and prognostic patterns in colon cancer data. It highlights treatment outcomes, disease extent, and lymph node involvement through clear, reproducible graphics. 
 
-Built in **R** using `ggplot2` and `survminer`, this project visualizes survival and prognostic patterns in colon cancer data.  
-It highlights treatment outcomes, disease extent, and lymph node involvement through clear, reproducible graphics.
+    **Tools:** R, ggplot2, survminer, tidyverse
 
-**Tools:** R, ggplot2, survminer, tidyverse  
-**Domain:** Oncology | Survival Analysis | Clinical Data Visualization  
+     **Domain:** Oncology | Survival Analysis | Clinical Data Visualization  
 
 - [View Code on GitHub](https://github.com/Olofin98/clinical-viz-tools)  
 - [Read Full Report on Website](https://github.com/Olofin98/clinical-viz-tools/blob/main/Clinical_Viz.pdf)

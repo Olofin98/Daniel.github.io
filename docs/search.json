@@ -60,7 +60,7 @@
     "href": "Projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Page under construction!"
+    "text": "Clinical Visualization Gallery — Colon Cancer Data\n\nBuilt in R using ggplot2 and survminer, this project visualizes survival and prognostic patterns in colon cancer data.\nIt highlights treatment outcomes, disease extent, and lymph node involvement through clear, reproducible graphics.\nTools: R, ggplot2, survminer, tidyverse\nDomain: Oncology | Survival Analysis | Clinical Data Visualization\n\nView Code on GitHub\n\nRead Full Report on Website"
   },
   {
     "objectID": "Training.html",
@@ -68,5 +68,12 @@
     "title": "Teaching and Training",
     "section": "",
     "text": "Lecture 1\nA hands-on tutorial introducing key concepts in descriptive statistics and statistical inference using R—designed to build a strong foundation for analyzing data in research contexts. Link"
+  },
+  {
+    "objectID": "Projects.html#projects",
+    "href": "Projects.html#projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Clinical Visualization Gallery — Colon Cancer Data\n\nBuilt in R using ggplot2 and survminer, this project visualizes survival and prognostic patterns in colon cancer data.\nIt highlights treatment outcomes, disease extent, and lymph node involvement through clear, reproducible graphics.\nTools: R, ggplot2, survminer, tidyverse\nDomain: Oncology | Survival Analysis | Clinical Data Visualization\n\nView Code on GitHub\n\nRead Full Report on Website"
   }
 ]

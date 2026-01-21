@@ -2,7 +2,25 @@
 title: "Projects"
 ---
 
-1. **Clinical Visualization Gallery — Colon Cancer Data:** Built in **R** using `ggplot2` and `survminer`, this project visualizes survival and prognostic patterns in colon cancer data. It highlights treatment outcomes, disease extent, and lymph node involvement through clear, reproducible graphics. 
+1. **Medical Cost Prediction — Insurance Analytics:** Built in **R**, this project developed and evaluated log–linear regression and gradient boosting models to predict annual medical expenditures using demographic and lifestyle data. The analysis emphasizes model interpretability, robust inference, and comparative performance assessment across modeling approaches.
+
+   **Tools:** R, tidyverse, lm, sandwich, lmtest, gbm  
+
+   **Domain:** Health Economics | Predictive Modeling | Insurance Analytics  
+
+- [View Code on GitHub](https://github.com/Olofin98/Predicting-Annual-Medical-Expenditures-Using-Comparative-Regression-Techniques)  
+
+
+2. **Medical Cost Estimator Web App — Model Deployment:** Built with **Shiny** and deployed using **shinylive** on GitHub Pages, this interactive web application allows users to estimate annual and monthly medical charges based on personal health characteristics. The app operationalizes a log–linear regression model for real-time, transparent decision support.
+
+   **Tools:** R, Shiny, shinylive, GitHub Pages, *AI-assisted development (ChatGPT)*  
+
+   **Domain:** Applied Machine Learning | Model Deployment | Health Data Science  
+
+- [Live Web App](https://olofin98.github.io/HealthCostML-Shiny/)  
+- [View Deployment Code on GitHub](https://github.com/Olofin98/HealthCostML-Shiny)
+
+3. **Clinical Visualization Gallery — Colon Cancer Data:** Built in **R** using `ggplot2` and `survminer`, this project visualizes survival and prognostic patterns in colon cancer data. It highlights treatment outcomes, disease extent, and lymph node involvement through clear, reproducible graphics. 
 
     **Tools:** R, ggplot2, survminer, tidyverse
 

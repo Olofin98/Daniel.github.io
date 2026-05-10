@@ -1,57 +1,164 @@
 ---
-title: "Update and Events"
+title: "Updates and Events"
 ---
 
-- **August 10th, 2025**
+## Updates Timeline
 
-![I am pleased to share that I recently completed my research internship at the Clonal Redesign Lab, Moffitt Cancer Center. This experience allowed me to apply stochastic simulation models and advanced biostatistical methods to study chromosomal instability in cancer cell lines. It has been an incredible opportunity to grow as a researcher and contribute to impactful oncology research.](End.jpg){fig-align="center" width="500px"}
+---
 
-- **July 24th, 2025**
+## 📅 2026
 
-I am honored to share that I’ve been selected as a participant in the Emerging Leaders in AI (ELAI) Graduate Program organized by Black in AI. This program will allow me to deepen my engagement with AI, collaborate with brilliant peers, and grow as a researcher at the intersection of Biostatistics, AI, and Precision Medicine.
+<details>
+<summary><strong>Click to expand 2026 updates</strong></summary>
 
-- **July 22nd, 2025**
+### April 23, 2026  
+![GS4 2026 Symposium](RRR.jpeg){fig-align="center" width="500px"}
 
-Excited to share that I have been inducted into Sigma Xi as an Associate Member, The Scientific Research Honor Society — joining a global community of researchers dedicated to advancing science.
+Presented *“Computational Maximum Likelihood Estimation of Nonlinear Time Series Regression Models with Correlated ARMA Errors”* at GS4 2026. The work developed a computational framework for nonlinear time series regression with correlated error structures using Newton–Raphson maximum likelihood estimation to improve inference and predictive performance.
 
--   **June 2nd, 2025**
+---
 
-![I was honored by the PharmaSUG Conference Committee with a Scholarship Award and Certificate of Achievement for my commitment to advancing clinical research and data science.](pharmasug2.jpg){fig-align="center" width="500px"}
+### April 23, 2026  
+![Averitt Award: Excellence in Research](RR.jpeg){fig-align="center" width="500px"}
 
--   **June 1st - 4th, 2025**
+Nominated for the **Averitt Award: Excellence in Research**, in recognition of outstanding research contributions, methodological rigor, and impactful data-driven work. This includes quantitative analysis, reproducible research practices, interdisciplinary collaboration, conference presentations, and scholarly outputs.
 
-![I am pleased to share that I attended the PharmaSUG 2025 Conference not just as an attendee, but as a proud Student Scholarship Recipient. It was an incredible opportunity to engage with experts in Statistical Programming, Clinical Data Science, and Biostatistics.](pharmasug_1.jpg){fig-align="center" width="500px"}
+---
 
--   **May 21, 2025**
+### April 03, 2026  
+![UGA ASA DataFest 2026](DD.jpeg){fig-align="center" width="500px"}
 
-I’m thrilled to announce that I have been selected to participate in the **Yale Program to Advance Training in Health and Science (PATHS)**, organized by the Yale School of Medicine Office of Diversity, Equity, and Inclusion. This competitive 10 months program supports the academic and professional development of future leaders in health and biomedical sciences.
+Represented Georgia Southern University at the **UGA ASA DataFest 2026**, collaborating on a large-scale healthcare dataset. Contributed to developing data-cleaning pipelines, patient-level analyses, and an interactive tool for tracking patient journeys and identifying gaps in care.
 
--   **May 11, 2025**
+---
 
-![Excited to share that I've joined the Clonal Redesign Lab at the Department of Integrated Mathematical Oncology, Moffitt Cancer Center, as a Graduate Research Trainee and Intern. Looking forward to contributung to impactful research and deepening my experience at the intersection of mathemetaics oncology, data science](Mof.jpg){fig-align="center" width="500px"}
+### April 03, 2026  
+![Conference Presentation](CP_2.jpeg){fig-align="center" width="500px"}
 
--   **May 1, 2025**
+Presented research on *likelihood-based estimation for nonlinear epidemic compartmental models with correlated error structures (AR/ARMA)* at the Central Botswana Mathematics and Statistical Sciences Conference IV. The work demonstrated improved inference and forecasting accuracy using maximum likelihood estimation and model comparison techniques.
 
-![I received a Certification of Recognition of Achievement and Dedication in securing and excelling in an internship opportunity from Office of Career and Professional Development, Georgia Southern University](new.png){fig-align="center" width="500px"}
+---
 
--   **April 24, 2025**
+### March 13, 2026  
+![Thesis Defense](CP.jpeg){fig-align="center" width="500px"}
 
-![Daniel Olofin presenting a poster titled "Time Series Forecasting for HIV Prevalence: An ARIMA Model Approach for Decision-Making" under the supervision of Professor Divine Wanduku at GS4 Student Scholar Symposium, Georgia Southern University.](pic2.jpg){fig-align="center" width="100%"} - **April 24, 2025**
+Successfully defended my thesis titled *“Computational Maximum Likelihood Estimation for Nonlinear Compartmental ODE Epidemic Models with Correlated Time Series Errors.”* The work developed a computational framework integrating epidemic dynamics with time-series modeling to improve infectious disease inference and prediction.
 
-![Professor Divine Wanduku and Daniel Olofin at GS4 Student Scholar Symposium, Georgia Southern University.](pic1.jpg){fig-align="center" width="100%"}
+</details>
 
--   **April 1, 2025**
+## 📅 2025
 
-I will be joining the Clonal Redesign Lab at the Moffitt Cancer Center for a Summer 2025 internship, where I will contribute to research in cancer genomics and data-driven oncology through computational and statistical methods.
+<details>
+<summary><strong>Click to expand 2025 updates</strong></summary>
 
--   **February 24,2025**
+### August 10, 2025
+![Research Internship Completion](End.jpg){fig-align="center" width="500px"}
 
-![Daniel Olofin was selected as a Student Scholar for PharmaSUG 2025 (San Diego, CA) in recognition of excellence in statistical programming.](Scholarship.png){fig-align="center" width="500px"}
+I am pleased to share that I have completed my research internship at the Clonal Redesign Lab, Moffitt Cancer Center. This experience allowed me to apply stochastic simulation models and advanced biostatistical methods to study chromosomal instability in cancer cell lines. It has been an incredible opportunity to grow as a researcher and contribute to impactful oncology research.
 
--   **October 25, 2024**
+---
 
-![Daniel Olofin presenting his project at Fred Hutch Cancer Center Data Science Lab During Data Science for Environmental Health Workshop.](Fred2.jpg){fig-align="center" width="500px"}
+### July 24, 2025
+I am honored to have been selected for the **Emerging Leaders in AI (ELAI) Graduate Program**, organized by Black in AI. This program will deepen my engagement with artificial intelligence and strengthen my work at the intersection of biostatistics, AI, and precision medicine.
 
--   **November 18, 2022**
+---
 
-![Daniel Olofin delivering hands-on training in medical statistics using R programming to a diverse audience including clinicians, researchers, physicians, and students at Stat101 organized by StatsClinic.](rdan.png){fig-align="center" width="500px"}
+### July 22, 2025
+I am excited to announce my induction as an Associate Member of **Sigma Xi, The Scientific Research Honor Society**, joining a global community of researchers advancing science.
+
+---
+
+### June 2, 2025
+![PharmaSUG Award](pharmasug2.jpg){fig-align="center" width="500px"}
+
+Received a Scholarship Award and Certificate of Achievement from PharmaSUG Conference Committee for contributions to clinical research and data science.
+
+---
+
+### June 1–4, 2025
+![PharmaSUG Conference](pharmasug_1.jpg){fig-align="center" width="500px"}
+
+Attended PharmaSUG 2025 Conference as a Student Scholarship Recipient, engaging with leaders in statistical programming and clinical data science.
+
+---
+
+### May 21, 2025
+Selected for the **Yale PATHS Program**, a 10-month competitive training program by Yale School of Medicine focused on developing future biomedical leaders.
+
+---
+
+### May 11, 2025
+![Moffitt Internship](Mof.jpg){fig-align="center" width="500px"}
+
+Joined the Clonal Redesign Lab, Moffitt Cancer Center, as a Graduate Research Trainee working in mathematical oncology and data science.
+
+---
+
+### May 1, 2025
+![Certification](new.png){fig-align="center" width="500px"}
+
+Received Certification of Achievement from Georgia Southern University for securing and excelling in a competitive internship.
+
+---
+
+### April 24, 2025
+![Poster Presentation](pic2.jpg){fig-align="center" width="100%"}
+
+Presented research on *Time Series Forecasting for HIV Prevalence using ARIMA models* at GS4 Student Scholar Symposium.
+
+![Symposium Interaction](pic1.jpg){fig-align="center" width="100%"}
+
+Engaged with Professor Divine Wanduku during the GS4 Student Scholar Symposium.
+
+---
+
+### April 1, 2025
+Accepted for Summer 2025 internship at Moffitt Cancer Center focusing on cancer genomics and computational oncology.
+
+---
+
+### February 24, 2025
+![PharmaSUG Selection](Scholarship.png){fig-align="center" width="500px"}
+
+Selected as Student Scholar for PharmaSUG 2025 in recognition of excellence in statistical programming.
+
+</details>
+
+---
+
+## 📅 2024
+
+<details>
+<summary><strong>Click to expand 2024 updates</strong></summary>
+
+### October 25, 2024
+![Fred Hutch Workshop](Fred2.jpg){fig-align="center" width="500px"}
+
+Presented research at Fred Hutch Cancer Center Data Science Lab during the Data Science for Environmental Health Workshop.
+
+</details>
+
+---
+
+## 📅 2023
+
+<details>
+<summary><strong>Click to expand 2023 updates</strong></summary>
+
+*(No entries yet — you can update as needed.)*
+
+</details>
+
+---
+
+## 📅 2022
+
+<details>
+<summary><strong>Click to expand 2022 updates</strong></summary>
+
+### November 18, 2022
+![R Training](rdan.png){fig-align="center" width="500px"}
+
+Delivered hands-on training in medical statistics using R programming to clinicians, researchers, and students during Stat101 organized by StatsClinic.
+
+</details>

@@ -6,7 +6,7 @@ about:
   links:
     - icon: linkedIn
       text: LinkedIn
-      href: https://linkedin.com/in/olofin-daniel-a489161ab
+      href: https://linkedin.com/in/daniel-olofin-0925443a7
     - icon: github
       text: Github
       href: https://github.com/Olofin98
@@ -19,6 +19,9 @@ about:
     - icon: Google Scholar
       text: Google Scholar
       href: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=vACy4ucAAAAJ
+    - icon: Research Gate
+      text: Research Gate
+      href: https://www.researchgate.net/profile/Daniel-Olofin?ev=hdr_xprf
 ---
 
 ### About Me

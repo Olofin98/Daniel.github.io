@@ -5,33 +5,49 @@ author: "Daniel O.O"
 
 ## Publications
 
-1.  Yusuf, M. W., Abioye, A. I., Ademola-Popoola, O., Abubakar, A. K., Olukorode, S. O., Kuyebi, M. A., Yisa, M. N., Musa, J., Oyadiran, O. T., Okusanya, T. R., Ogunlade, S. O., **Olofin, D.O.**, Igho-Osagie, E., Omotayo, M. O., & Adewuya, A. (2025). Prevalence of mental disorders among people with neurologic conditions in Nigeria: A systematic review. Spring Nature (*BMC Psychiatry*). [Link](http://link.springer.com/article/10.1186/s12888-025-07327-9.)
+1. Ezea, F.C., Idowu, K.O., Adam, U.M., **Olofin, D.O.**, Aina, F.S., Ugwu, U.C., Adetokunbo, B.O., Nwankwo, I.I., Efori, B., & Azeez, Y.B. (2024). *Mathematical modelling of the endemic phase of COVID-19 infection considering vaccination breakthrough, revaccination, and reinfection.* International Journal of Mathematical, Actuarial and Management Sciences (IJMAM).  
+[Link](https://www.researchgate.net/publication/404048203_Mathematical_modelling_of_the_endemic_phase_of_Covid-19_infection_considering_vaccination_breakthrough_revaccination_and_reinfection)
 
-2.  Abubakar, A., Yisa, M. N., Olukorade, S. O., Musa, J., Oyadiran, O. T., Okusanya, T. R., Ogunlade, S. O., Kuyebi, M. A., **Olofin, D.O.**, Omotayo, M. O., & Abioye, A. I. (2025). Prevalence of mental health illness in Nigeria: Protocol for a systematic review and meta-analysis. Spring Nature (*BMC Psychiatry*). [Link](https://link.springer.com/article/10.1186/s13643-025-02934-9)
+2. Yusuf, M. W., Abioye, A. I., Ademola-Popoola, O., Abubakar, A. K., Olukorode, S. O., Kuyebi, M. A., Yisa, M. N., Musa, J., Oyadiran, O. T., Okusanya, T. R., Ogunlade, S. O., **Olofin, D.O.**, Igho-Osagie, E., Omotayo, M. O., & Adewuya, A. (2025). Prevalence of mental disorders among people with neurological conditions in Nigeria: A systematic review. *BMC Psychiatry*.  
+[Link](http://link.springer.com/article/10.1186/s12888-025-07327-9)
 
-3.  Okwukwu, M., **Olofin, D. O.**, & Taiwo, A. A. (2025). Artificial Intelligence in Nigeria Healthcare: A Review of State, Challenges and Opportunities. *EthAIca: Journal of Ethics, AI and Critical Analysis,* (4), 210. AG Editor (Argentina). [Link](https://dialnet.unirioja.es/servlet/articulo?codigo=10314493)
+3. Abubakar, A., Yisa, M. N., Olukorade, S. O., Musa, J., Oyadiran, O. T., Okusanya, T. R., Ogunlade, S. O., Kuyebi, M. A., **Olofin, D.O.**, Omotayo, M. O., & Abioye, A. I. (2025). Prevalence of mental health illness in Nigeria: Protocol for a systematic review and meta-analysis. *BMC Psychiatry*.  
+[Link](https://link.springer.com/article/10.1186/s13643-025-02934-9)
 
-4.  Ogunnusi, O.N., **Olofin, D.O.**, Abdulwahab, M.O., Olanipekun, I.A., & Ojeniran, T.P. (2024). Modeling and Forecasting the Prevalence of Human Immuno-Deficiency Virus (HIV) in Birnin Gwari Local Government Area of Kaduna State. Applied Research and Innovation (ARI).[Link](https:%20//doi.org/10.54536/ari.v2i2.3746)
+4. Okwukwu, M., **Olofin, D.O.**, & Taiwo, A. A. (2025). Artificial intelligence in Nigerian healthcare: A review of state, challenges, and opportunities. *EthAIca: Journal of Ethics, AI and Critical Analysis*, 4, 210.  
+[Link](https://dialnet.unirioja.es/servlet/articulo?codigo=10314493)
 
-5.  Akintayo, T.A., Oko-Odion, T.U., Egenuka, R.N., Owoeye, M.C., Osei, J.K., **Olofin, D.O.**, Ov- abor, J.T., Oladayo, J.I., Alele, G.O., Adefemi, O.T., Olobayo, D.F., Ifenatuora, C.I., & Okhani, P. (2024). Exploring the Possibilities of AI in Medical Settings: How Artificial Intelligence Can Transform Healthcare and Hospital Operations. International Journal of Advances in Engineering and Management (IJAEM). [Link to Article](https://www.researchgate.net/publication/387024329_Exploring_the_Possibilities_of_AI_in_Medical_Settings_How_Artificial_Intelligence_Can_Transform_Healthcare_and_Hospital_Operations.)
+5. Ogunnusi, O. N., **Olofin, D.O.**, Abdulwahab, M. O., Olanipekun, I. A., & Ojeniran, T. P. (2024). Modeling and forecasting the prevalence of human immunodeficiency virus (HIV) in Birnin Gwari Local Government Area of Kaduna State. *Applied Research and Innovation*.  
+[Link](https://doi.org/10.54536/ari.v2i2.3746)
 
-6.  Ogbe, M.I., Nzeanorue, C.C., Olusola, R.A., **Olofin, D.O.**, Owoeye, M.C., Enabulele, E.C., Ibijola, A.P., Ifechukwu, C.J., & Ayo, O.I. (2024). A comparative study of decision tree and support vector machine for breast cancer prediction. World Journal of Advanced Research and Reviews, 23(01), 746-752. [Link to Article](https://doi.org/10.30574/wjarr.2024.23.1.2024).
+6. Akintayo, T. A., Oko-Odion, T. U., Egenuka, R. N., Owoeye, M. C., Osei, J. K., **Olofin, D.O.**, Ovabor, J. T., Oladayo, J. I., Alele, G. O., Adefemi, O. T., Olobayo, D. F., Ifenatuora, C. I., & Okhani, P. (2024). Exploring the possibilities of AI in medical settings: How artificial intelligence can transform healthcare and hospital operations. *International Journal of Advances in Engineering and Management (IJAEM)*.  
+[Link](https://www.researchgate.net/publication/387024329_Exploring_the_Possibilities_of_AI_in_Medical_Settings_How_Artificial_Intelligence_Can_Transform_Healthcare_and_Hospital_Operations)
+
+7. Ogbe, M. I., Nzeanorue, C. C., Olusola, R. A., **Olofin, D.O.**, Owoeye, M. C., Enabulele, E. C., Ibijola, A. P., Ifechukwu, C. J., & Ayo, O. I. (2024). A comparative study of decision tree and support vector machine for breast cancer prediction. *World Journal of Advanced Research and Reviews*, 23(1), 746–752.  
+[Link](https://doi.org/10.30574/wjarr.2024.23.1.2024)
+
+---
 
 ## Pre-Prints
 
-1.  Ogunlade, S. B., Abioye, A. I., Kuyebi, M. A., Musa, J., Abubakar, A. K., Yisa, M. N., Olukorode, S. O., Oyadiran, O. T., Okusanya, T. R., **Olofin, D.O.**, Igho-Osagie, E., Omotayo, M. O., & Adewuya, A. (2025). Prevalence of psychiatric disorders among children and adolescents in Nigeria since 2010: A systematic review and meta-analysis. medRxiv. Cold Spring Harbor Laboratory Press. [Link](https://doi.org/10.1101/2025.02.22.25322718.)
+1. Ogunlade, S. B., Abioye, A. I., Kuyebi, M. A., Musa, J., Abubakar, A. K., Yisa, M. N., Olukorode, S. O., Oyadiran, O. T., Okusanya, T. R., **Olofin, D.O.**, Igho-Osagie, E., Omotayo, M. O., & Adewuya, A. (2025). Prevalence of psychiatric disorders among children and adolescents in Nigeria since 2010: A systematic review and meta-analysis. *medRxiv*.  
+[Link](https://doi.org/10.1101/2025.02.22.25322718)
 
-2. Abubakar, A. K., Abioye, A. I., Yisa, M. N., **Olofin, D. O.**, Okusanya, T. R., Olukorode, S. O., Musa, J. N., Kuyebi, M. A., Oyadiran, O. T., Ogunlade, S. B., Omotayo, M. O., Igho-Osagie, E., & Adewuya, A. (2025). *Prevalence of suicidal behavior in Nigeria: A systematic review and meta-analysis.* Research Square. [Link](https://www.researchsquare.com/article/rs-7990610/v1)
+2. Abubakar, A. K., Abioye, A. I., Yisa, M. N., **Olofin, D.O.**, Okusanya, T. R., Olukorode, S. O., Musa, J. N., Kuyebi, M. A., Oyadiran, O. T., Ogunlade, S. B., Omotayo, M. O., Igho-Osagie, E., & Adewuya, A. (2025). Prevalence of suicidal behavior in Nigeria: A systematic review and meta-analysis. *Research Square*.  
+[Link](https://www.researchsquare.com/article/rs-7990610/v1)
 
+---
 
-## Manuscript Under Review
+## Manuscripts Under Review
 
-Ezea, F.C., Idowu, K.O., Adam, U.M., **Olofin, D.O**., Aina, F.S., Ugwu, U.C., Adetokunbo, B.O., Nwankwo, I.I., Efori, B., & Azeez, Y.B. (2024). Mathematical Modelling of Covid-19 Infection Considering Vaccination Breakthrough and Reinfection. Elsevier, Tracking ID.
+*(Add submissions currently under peer review here)*
 
-## Manuscript in Preparation
+---
 
-1.  **Daniel O.O.**, Abdulwahab, M.O., Victor A., & Halleluyah O. (2025). Enhancing Biostatistical Data Visualization in R: Best Practices and Applications in Epidemiology.
+## Manuscripts in Preparation
 
-2.  **Daniel O.O.**, Ayomide O., Abdulwahab, M.O., Olanipekun, I.A., & Ojeniran, T.P. (2025). Explor- ing the Influence of Clinical and Demographic Factors on the Survival of Breast Cancer Patients: A Survival Analysis of Tumor Characteristics, Hormone Receptor Status, and Patient Profile.
+1. **Olofin, D. O.**, Abdulwahab, M. O., Victor A., & Halleluyah O. (2025). Enhancing biostatistical data visualization in R: Best practices and applications in epidemiology.
 
-3.  **Daniel, O.O.**, & Ogunnusi, O.N. (2024). Forecasting Monthly HIV Prevalence Trends Using Long Short-Term Memory (LSTM) Networks: A 12-Year Retrospective Study.
+2. **Olofin, D. O.**, Ayomide O., Abdulwahab, M. O., Olanipekun, I. A., & Ojeniran, T. P. (2025). Influence of clinical and demographic factors on survival of breast cancer patients: A survival analysis of tumor characteristics, hormone receptor status, and patient profile.
+
+3. **Olofin, D. O.**, & Ogunnusi, O. N. (2024). Forecasting monthly HIV prevalence trends using long short-term memory (LSTM) networks: A 12-year retrospective study.

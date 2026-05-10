@@ -2,76 +2,92 @@
 title: "Teaching and Training"
 ---
 
-# Lecture 4 - Correlation and Simple Linear Regression (Dec 4, 2025)
+# Teaching and Training
 
-In this **StatsClinic R Lab** taught by **Daniel Olofin**, participants are introduced to correlation and simple linear regression using real clinical and public health datasets.
+This section highlights lecture sessions delivered under **StatsClinic R Lab**, focusing on applied statistics, data science, and biostatistics using real-world datasets in R.
 
-## Topics Covered
+---
 
-### Correlation
+## Lecture 4 — Correlation and Simple Linear Regression (Dec 4, 2025)
+
+In this **StatsClinic R Lab session**, taught by **Daniel Olofin**, participants are introduced to correlation analysis and simple linear regression using real clinical and public health datasets.
+
+### Topics Covered
+
+#### Correlation
 - Visualizing relationships between variables  
-- Computing **Pearson correlation**  
-- Understanding correlation strength and direction  
+- Computing **Pearson correlation coefficient**  
+- Interpreting correlation strength and direction  
 
-### Simple Linear Regression
-- Fitting regression models with **lm()**  
-- Introduction to **glm()** for generalized linear models  
-- Interpreting:
+#### Simple Linear Regression
+- Fitting regression models using `lm()`  
+- Introduction to generalized linear models using `glm()`  
+- Interpretation of:
   - Regression coefficients  
   - p-values  
   - R-squared  
-  - Residual diagnostics (checking model assumptions)  
+  - Residual diagnostics and model assumptions  
 
-### Additional Concepts
-- Using **binary, categorical, and multi-variable predictors** in R  
-- Comparing models using **AIC**  
-- How these concepts fit into the **Linear Regression module** in the StatsClinic November course series  
+#### Additional Concepts
+- Use of binary, categorical, and multi-variable predictors in R  
+- Model comparison using **AIC**  
+- Connection to the broader **Linear Regression module** in the StatsClinic curriculum  
 
 **Materials:**  
 - [Video Link](https://youtu.be/SRApJDD3RqU?si=r0wokPxmpnlBbva8)
 
+---
 
-# Lecture 3 - T-Tests and Non-Parametric Alternatives (Nov 23, 2025)
+## Lecture 3 — T-Tests and Non-Parametric Alternatives (Nov 23, 2025)
 
-In this class, **Daniel Olofin** takes students through key statistical hypothesis-testing methods, including:
+In this session, **Daniel Olofin** guides students through key hypothesis testing methods in statistical analysis.
 
-## T-Tests
-- **One-sample t-test**  
-- **Paired t-test**  
-- **Independent samples t-test**
-- **ANOVA**
+### Topics Covered
 
-## Non-Parametric Alternatives
-- **Wilcoxon Signed-Rank Test** (paired/one-sample)  
-- **Wilcoxon Rank-Sum Test** (independent samples)
+#### Parametric Tests
+- One-sample t-test  
+- Paired t-test  
+- Independent samples t-test  
+- Introduction to ANOVA  
 
-These methods are introduced with practical examples and guidance on when to choose parametric vs. non-parametric approaches.
+#### Non-Parametric Alternatives
+- Wilcoxon Signed-Rank Test (paired/one-sample)  
+- Wilcoxon Rank-Sum Test (independent samples)  
+
+This lecture emphasizes when to apply parametric versus non-parametric methods using practical examples from real datasets.
 
 **Materials:**  
-- [Video Link 1](https://youtu.be/FlxNob4WefU?si=KPdUPhWpLelO84nj)
+- [Video Link 1](https://youtu.be/FlxNob4WefU?si=KPdUPhWpLelO84nj)  
+- [Video Link 2](https://youtu.be/dweje4fXXAU?si=tIswqF78fGYkMJxi)
 
-- [Vidoe Link 2](https://youtu.be/dweje4fXXAU?si=tIswqF78fGYkMJxi)
+---
 
-# Lecture 2 - Introduction to R and RStudio at StatsClinic (Nov 9, 2025)
+## Lecture 2 — Introduction to R and RStudio (Nov 9, 2025)
 
-In this live session, **Daniel Olofin** introduces the basics of using **R**, including:
+This live introductory session, led by **Daniel Olofin**, introduces participants to the fundamentals of R programming.
 
-- Installing and setting up the software  
-- Understanding the R and RStudio interface  
-- Navigating the Console, Script Editor, Environment, and Files/Plots/Tabs  
-- Writing and running your first lines of R code  
+### Topics Covered
+- Installing and setting up R and RStudio  
+- Understanding the RStudio interface  
+- Navigating Console, Script Editor, Environment, and Output Panels  
+- Writing and executing basic R code  
 
-*This session is designed to help complete beginners get comfortable with the R environment and begin coding with confidence.*
+This session is designed to help beginners build confidence in using R for statistical computing and data analysis.
 
 **Materials:**  
 - [Video Link](https://youtu.be/1QOuUYzqztk?si=CLP9trGlDGe-vVBy)
 
+---
 
-# Lecture 1 - Introduction to Descriptive Statistics (R4DataScience)
+## Lecture 1 — Introduction to Descriptive Statistics (R4DataScience)
 
-A hands-on tutorial introducing key concepts in **descriptive statistics** and **statistical inference** using **R**—designed to build a strong foundation for analyzing data in research contexts at **R4DataScience**.
+This hands-on tutorial introduces foundational concepts in **descriptive statistics and statistical inference** using R, designed to support early-stage data science learning.
 
-Participants learn how to summarize data, compute common descriptive measures, visualize distributions, and begin working with R syntax for basic statistical analysis.
+### Learning Outcomes
+- Summarizing datasets using descriptive measures  
+- Understanding distributions and variability  
+- Basic data visualization in R  
+- Introduction to statistical programming workflows  
 
 **Materials:**  
 - [Video Link](https://drive.google.com/file/d/1jldVQlu6QmWFpEEX1RWY9ukYDiDhBdr-/view?usp=drive_link)

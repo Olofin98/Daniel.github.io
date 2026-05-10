@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Olofin DO",
     "section": "",
-    "text": "About Me\nHello! I’m Daniel Oluwafemi Olofin, a passionate and driven Master’s student in Mathematical Sciences (Statistics concentration) at Georgia Southern University, USA. With a strong foundation in biostatistics and computational methodologies, I am deeply interested in leveraging data science, artificial intelligence, and statistical modeling to solve complex problems in healthcare, particularly within clinical trials and oncology drug development.\n\n\nCurrent Academic Focus\nAt Georgia Southern, my academic journey is centered on biostatistical methods, computational biology, and AI applications in clinical research. I am particularly interested in the development and application of statistical machine learning techniques to improve drug discovery, personalized medicine, and oncology treatment outcomes. My coursework and research experiences continue to strengthen my ability to bridge theory with real-world health challenges.\n\n\nHobbies & Interests\nOutside of academics and research, I enjoy reading research papers, solving statistical puzzles, occasionally competing in academic quizzes, playing guitar, listening to music, and indulging in Mortal Kombat for some fun and relaxation."
+    "text": "Hello! I am Daniel Oluwafemi Olofin, a graduate student in Mathematical Sciences (Statistics concentration) at Georgia Southern University, USA.\nMy academic and research interests lie at the intersection of biostatistics, machine learning, and computational biology, with a strong focus on applications in clinical research, oncology, and drug development. I am particularly interested in how statistical and AI-driven methods can be used to improve clinical decision-making, personalized medicine, and healthcare outcomes."
   },
   {
     "objectID": "updates.html",
@@ -53,28 +53,28 @@
     "href": "about.html",
     "title": "Motivation and Achievements",
     "section": "",
-    "text": "Motivation\nMy motivation is deeply rooted in the desire to make a tangible impact in the pharmaceutical and healthcare industry. I am fascinated by how data can unravel hidden patterns, improve decision-making, and ultimately save lives. This passion for using data to drive change fuels my dedication to research and innovation in public health, drug efficacy evaluation, and precision medicine.\n\n\nAchievements\n\nNominated the Averitt Award for Excellence in Research, Georgia Southern University\nSummer 2025 Internship Scholarship Award Recipient, Office of Career and Professional Development, Georgia Southern University. Received a merit-based scholarship award $1,500 to support participation in a competitive summer internship program.\nMartha L. Abell Endowed Scholarship, Georgia Southern University – $1,490 (2025) - Awarded for outstanding academic performance in Mathematical Sciences.\nPharmaSUG 2025 Student Scholarship – June 2025. Recipient of a competitive scholarship to attend the PharmaSUG 2025 Conference, recognizing excellence in statistical programming and data analytics.\nStudent Government Travel Award, Georgia Southern University – March 2025. Awarded a competitive $500.00 travel grant to support attendance at the PharmaDS 2025 Conference, recognizing academic excellence in statistics and data science with applications in drug discovery and development.\nTravel Support Award, Fred Hutch Cancer Center, Seattle, WA – October 2024 - Granted $1,710.30 in travel support to participate in the prestigious Data Science for Environmental Health (DaSEH) Short Course.\nStatistics Quiz Award – February 28, 2024. Received a one-time cash prize of ₦5,000.00 for exceptional performance in regression analysis during a Statistics quiz conducted by Mr. Hammed A. Akande, M.Sc.\nCo-authored multiple peer-reviewed publications, including a recent study on machine learning models for breast cancer prediction.\nSelected to attend the Data Science for Environmental Health (DaSEH) Short Course 2024 at Fred Hutch Cancer Center, with full travel support.\nLed the development of an Electronic Health Record system capturing retrospective data for three clinics at Lagos State University Teaching Hospital, Nigeria.\nPlayed a vital role in clinical trial randomization, sample size calculation, and data analysis for health-focused projects in collaboration with national and international teams.\nDelivered statistical training in R and SPSS to over 100 early-career researchers, significantly improving their data analysis skills.\n\n\n\nGoals\nIn the short term, I aim to build deeper expertise in Bayesian methods, deep learning, and multi-omics data integration for predictive modeling in oncology. I am also actively seeking opportunities for research internships and collaborations in pharmaceutical data science.\nIn the long term, I intend to pursue a PhD in Statistics, Biostatistics, Bioinformatics, AI in Medicine or Computational Biology, focusing on the integration of machine learning into cancer drug development, biomarker discovery, and resistance profiling. My ultimate goal is to contribute to building smarter, faster, and more personalized solutions in healthcare through data-driven science."
+    "text": "My motivation is deeply rooted in the desire to make a tangible impact in the pharmaceutical and healthcare industry. I am particularly interested in how data can uncover hidden patterns, improve clinical decision-making, and ultimately contribute to better patient outcomes.\nI am fascinated by the intersection of biostatistics, machine learning, and precision medicine, where statistical rigor meets real-world healthcare challenges. This passion drives my commitment to research in public health, drug efficacy evaluation, cancer biology, and data-driven healthcare innovation."
   },
   {
     "objectID": "Projects.html",
     "href": "Projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Medical Cost Prediction — Insurance Analytics: Built in R, this project developed and evaluated log–linear regression and gradient boosting models to predict annual medical expenditures using demographic and lifestyle data. The analysis emphasizes model interpretability, robust inference, and comparative performance assessment across modeling approaches.\nTools: R, tidyverse, lm, sandwich, lmtest, gbm\nDomain: Health Economics | Predictive Modeling | Insurance Analytics\n\n\nView Code on GitHub\n\n\nMedical Cost Estimator Web App — Model Deployment: Built with Shiny and deployed using shinylive on GitHub Pages, this interactive web application allows users to estimate annual and monthly medical charges based on personal health characteristics. The app operationalizes a log–linear regression model for real-time, transparent decision support.\nTools: R, Shiny, shinylive, GitHub Pages, AI-assisted development (ChatGPT)\nDomain: Applied Machine Learning | Model Deployment | Health Data Science\n\n\nLive Web App\n\nView Deployment Code on GitHub\n\n\nClinical Visualization Gallery — Colon Cancer Data: Built in R using ggplot2 and survminer, this project visualizes survival and prognostic patterns in colon cancer data. It highlights treatment outcomes, disease extent, and lymph node involvement through clear, reproducible graphics.\nTools: R, ggplot2, survminer, tidyverse\nDomain: Oncology | Survival Analysis | Clinical Data Visualization\n\n\nView Code on GitHub\n\nRead Full Report on Website"
+    "text": "Built in R, this project develops and evaluates log-linear regression and gradient boosting models to predict annual medical expenditures using demographic and lifestyle factors. The work emphasizes model interpretability, statistical inference, and comparative performance evaluation across classical and machine learning approaches.\nTools: R, tidyverse, lm, sandwich, lmtest, gbm\nDomain: Health Economics | Predictive Modeling | Insurance Analytics\n\nView Code on GitHub\n\n\n\n\n\nBuilt with Shiny and deployed via shinylive on GitHub Pages, this interactive web application estimates annual and monthly medical costs based on user health characteristics. The application operationalizes a log-linear regression model for real-time, transparent decision support.\nTools: R, Shiny, shinylive, GitHub Pages, AI-assisted development (ChatGPT)\nDomain: Applied Machine Learning | Model Deployment | Health Data Science\n\nLive Web App\n\nView Deployment Code on GitHub\n\n\n\n\n\nDeveloped in R using ggplot2 and survminer, this project explores survival and prognostic patterns in colon cancer datasets. It highlights treatment outcomes, disease progression, and lymph node involvement through reproducible and publication-quality visualizations.\nTools: R, ggplot2, survminer, tidyverse\nDomain: Oncology | Survival Analysis | Clinical Data Visualization\n\nView Code on GitHub\n\nRead Full Report"
   },
   {
     "objectID": "Training.html",
     "href": "Training.html",
     "title": "Teaching and Training",
     "section": "",
-    "text": "In this StatsClinic R Lab taught by Daniel Olofin, participants are introduced to correlation and simple linear regression using real clinical and public health datasets.\n\n\n\n\n\nVisualizing relationships between variables\n\nComputing Pearson correlation\n\nUnderstanding correlation strength and direction\n\n\n\n\n\nFitting regression models with lm()\n\nIntroduction to glm() for generalized linear models\n\nInterpreting:\n\nRegression coefficients\n\np-values\n\nR-squared\n\nResidual diagnostics (checking model assumptions)\n\n\n\n\n\n\nUsing binary, categorical, and multi-variable predictors in R\n\nComparing models using AIC\n\nHow these concepts fit into the Linear Regression module in the StatsClinic November course series\n\nMaterials:\n- Video Link"
+    "text": "This section highlights lecture sessions delivered under StatsClinic R Lab, focusing on applied statistics, data science, and biostatistics using real-world datasets in R.\n\n\n\nIn this StatsClinic R Lab session, taught by Daniel Olofin, participants are introduced to correlation analysis and simple linear regression using real clinical and public health datasets.\n\n\n\n\n\nVisualizing relationships between variables\n\nComputing Pearson correlation coefficient\n\nInterpreting correlation strength and direction\n\n\n\n\n\nFitting regression models using lm()\n\nIntroduction to generalized linear models using glm()\n\nInterpretation of:\n\nRegression coefficients\n\np-values\n\nR-squared\n\nResidual diagnostics and model assumptions\n\n\n\n\n\n\nUse of binary, categorical, and multi-variable predictors in R\n\nModel comparison using AIC\n\nConnection to the broader Linear Regression module in the StatsClinic curriculum\n\nMaterials:\n- Video Link\n\n\n\n\n\n\nIn this session, Daniel Olofin guides students through key hypothesis testing methods in statistical analysis.\n\n\n\n\n\nOne-sample t-test\n\nPaired t-test\n\nIndependent samples t-test\n\nIntroduction to ANOVA\n\n\n\n\n\nWilcoxon Signed-Rank Test (paired/one-sample)\n\nWilcoxon Rank-Sum Test (independent samples)\n\nThis lecture emphasizes when to apply parametric versus non-parametric methods using practical examples from real datasets.\nMaterials:\n- Video Link 1\n- Video Link 2\n\n\n\n\n\n\nThis live introductory session, led by Daniel Olofin, introduces participants to the fundamentals of R programming.\n\n\n\nInstalling and setting up R and RStudio\n\nUnderstanding the RStudio interface\n\nNavigating Console, Script Editor, Environment, and Output Panels\n\nWriting and executing basic R code\n\nThis session is designed to help beginners build confidence in using R for statistical computing and data analysis.\nMaterials:\n- Video Link\n\n\n\n\n\nThis hands-on tutorial introduces foundational concepts in descriptive statistics and statistical inference using R, designed to support early-stage data science learning.\n\n\n\nSummarizing datasets using descriptive measures\n\nUnderstanding distributions and variability\n\nBasic data visualization in R\n\nIntroduction to statistical programming workflows\n\nMaterials:\n- Video Link"
   },
   {
     "objectID": "Projects.html#projects",
     "href": "Projects.html#projects",
     "title": "Projects",
     "section": "",
-    "text": "Clinical Visualization Gallery — Colon Cancer Data\n\nBuilt in R using ggplot2 and survminer, this project visualizes survival and prognostic patterns in colon cancer data.\nIt highlights treatment outcomes, disease extent, and lymph node involvement through clear, reproducible graphics.\nTools: R, ggplot2, survminer, tidyverse\nDomain: Oncology | Survival Analysis | Clinical Data Visualization\n\nView Code on GitHub\n\nRead Full Report on Website"
+    "text": "Built in R, this project develops and evaluates log-linear regression and gradient boosting models to predict annual medical expenditures using demographic and lifestyle factors. The work emphasizes model interpretability, statistical inference, and comparative performance evaluation across classical and machine learning approaches.\nTools: R, tidyverse, lm, sandwich, lmtest, gbm\nDomain: Health Economics | Predictive Modeling | Insurance Analytics\n\nView Code on GitHub\n\n\n\n\n\nBuilt with Shiny and deployed via shinylive on GitHub Pages, this interactive web application estimates annual and monthly medical costs based on user health characteristics. The application operationalizes a log-linear regression model for real-time, transparent decision support.\nTools: R, Shiny, shinylive, GitHub Pages, AI-assisted development (ChatGPT)\nDomain: Applied Machine Learning | Model Deployment | Health Data Science\n\nLive Web App\n\nView Deployment Code on GitHub\n\n\n\n\n\nDeveloped in R using ggplot2 and survminer, this project explores survival and prognostic patterns in colon cancer datasets. It highlights treatment outcomes, disease progression, and lymph node involvement through reproducible and publication-quality visualizations.\nTools: R, ggplot2, survminer, tidyverse\nDomain: Oncology | Survival Analysis | Clinical Data Visualization\n\nView Code on GitHub\n\nRead Full Report"
   },
   {
     "objectID": "Training.html#topics-covered",
@@ -173,5 +173,82 @@
     "title": "Publications",
     "section": "Manuscripts in Preparation",
     "text": "Manuscripts in Preparation\n\nOlofin, D. O., Abdulwahab, M. O., Victor A., & Halleluyah O. (2025). Enhancing biostatistical data visualization in R: Best practices and applications in epidemiology.\nOlofin, D. O., Ayomide O., Abdulwahab, M. O., Olanipekun, I. A., & Ojeniran, T. P. (2025). Influence of clinical and demographic factors on survival of breast cancer patients: A survival analysis of tumor characteristics, hormone receptor status, and patient profile.\nOlofin, D. O., & Ogunnusi, O. N. (2024). Forecasting monthly HIV prevalence trends using long short-term memory (LSTM) networks: A 12-year retrospective study."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Olofin DO",
+    "section": "",
+    "text": "Hello! I am Daniel Oluwafemi Olofin, a graduate student in Mathematical Sciences (Statistics concentration) at Georgia Southern University, USA.\nMy academic and research interests lie at the intersection of biostatistics, machine learning, and computational biology, with a strong focus on applications in clinical research, oncology, and drug development. I am particularly interested in how statistical and AI-driven methods can be used to improve clinical decision-making, personalized medicine, and healthcare outcomes."
+  },
+  {
+    "objectID": "index.html#academic-focus",
+    "href": "index.html#academic-focus",
+    "title": "Olofin DO",
+    "section": "Academic Focus",
+    "text": "Academic Focus\nMy current training emphasizes:\n\nBiostatistical theory and applied statistical modeling\n\nComputational biology and data-driven healthcare systems\n\nMachine learning methods for clinical and biomedical data\n\nStatistical applications in oncology and drug discovery\n\nThrough coursework and research, I aim to bridge statistical methodology with real-world healthcare problems, particularly in cancer research and precision medicine."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Olofin DO",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nStatistical machine learning in healthcare\n\nCancer genomics and oncology data modeling\n\nSurvival analysis and clinical trial methodology\n\nAI applications in drug discovery and biomarker identification\n\nHigh-dimensional and longitudinal biomedical data analysis"
+  },
+  {
+    "objectID": "index.html#hobbies-interests",
+    "href": "index.html#hobbies-interests",
+    "title": "Olofin DO",
+    "section": "Hobbies & Interests",
+    "text": "Hobbies & Interests\nOutside academia, I enjoy reading research papers, solving statistical problems, playing guitar, listening to music, and playing video games such as Mortal Kombat as a way to relax and recharge."
+  },
+  {
+    "objectID": "Training.html#lecture-4-correlation-and-simple-linear-regression-dec-4-2025",
+    "href": "Training.html#lecture-4-correlation-and-simple-linear-regression-dec-4-2025",
+    "title": "Teaching and Training",
+    "section": "",
+    "text": "In this StatsClinic R Lab session, taught by Daniel Olofin, participants are introduced to correlation analysis and simple linear regression using real clinical and public health datasets.\n\n\n\n\n\nVisualizing relationships between variables\n\nComputing Pearson correlation coefficient\n\nInterpreting correlation strength and direction\n\n\n\n\n\nFitting regression models using lm()\n\nIntroduction to generalized linear models using glm()\n\nInterpretation of:\n\nRegression coefficients\n\np-values\n\nR-squared\n\nResidual diagnostics and model assumptions\n\n\n\n\n\n\nUse of binary, categorical, and multi-variable predictors in R\n\nModel comparison using AIC\n\nConnection to the broader Linear Regression module in the StatsClinic curriculum\n\nMaterials:\n- Video Link"
+  },
+  {
+    "objectID": "Training.html#lecture-3-t-tests-and-non-parametric-alternatives-nov-23-2025",
+    "href": "Training.html#lecture-3-t-tests-and-non-parametric-alternatives-nov-23-2025",
+    "title": "Teaching and Training",
+    "section": "",
+    "text": "In this session, Daniel Olofin guides students through key hypothesis testing methods in statistical analysis.\n\n\n\n\n\nOne-sample t-test\n\nPaired t-test\n\nIndependent samples t-test\n\nIntroduction to ANOVA\n\n\n\n\n\nWilcoxon Signed-Rank Test (paired/one-sample)\n\nWilcoxon Rank-Sum Test (independent samples)\n\nThis lecture emphasizes when to apply parametric versus non-parametric methods using practical examples from real datasets.\nMaterials:\n- Video Link 1\n- Video Link 2"
+  },
+  {
+    "objectID": "Training.html#lecture-2-introduction-to-r-and-rstudio-nov-9-2025",
+    "href": "Training.html#lecture-2-introduction-to-r-and-rstudio-nov-9-2025",
+    "title": "Teaching and Training",
+    "section": "",
+    "text": "This live introductory session, led by Daniel Olofin, introduces participants to the fundamentals of R programming.\n\n\n\nInstalling and setting up R and RStudio\n\nUnderstanding the RStudio interface\n\nNavigating Console, Script Editor, Environment, and Output Panels\n\nWriting and executing basic R code\n\nThis session is designed to help beginners build confidence in using R for statistical computing and data analysis.\nMaterials:\n- Video Link"
+  },
+  {
+    "objectID": "Training.html#lecture-1-introduction-to-descriptive-statistics-r4datascience",
+    "href": "Training.html#lecture-1-introduction-to-descriptive-statistics-r4datascience",
+    "title": "Teaching and Training",
+    "section": "",
+    "text": "This hands-on tutorial introduces foundational concepts in descriptive statistics and statistical inference using R, designed to support early-stage data science learning.\n\n\n\nSummarizing datasets using descriptive measures\n\nUnderstanding distributions and variability\n\nBasic data visualization in R\n\nIntroduction to statistical programming workflows\n\nMaterials:\n- Video Link"
+  },
+  {
+    "objectID": "about.html#motivation",
+    "href": "about.html#motivation",
+    "title": "Motivation and Achievements",
+    "section": "",
+    "text": "My motivation is deeply rooted in the desire to make a tangible impact in the pharmaceutical and healthcare industry. I am particularly interested in how data can uncover hidden patterns, improve clinical decision-making, and ultimately contribute to better patient outcomes.\nI am fascinated by the intersection of biostatistics, machine learning, and precision medicine, where statistical rigor meets real-world healthcare challenges. This passion drives my commitment to research in public health, drug efficacy evaluation, cancer biology, and data-driven healthcare innovation."
+  },
+  {
+    "objectID": "about.html#achievements",
+    "href": "about.html#achievements",
+    "title": "Motivation and Achievements",
+    "section": "Achievements",
+    "text": "Achievements\n\nNominated for the Averitt Award for Excellence in Research, Georgia Southern University.\nSummer 2025 Internship Scholarship Award Recipient, Office of Career and Professional Development, Georgia Southern University. Received a merit-based scholarship of $1,500 supporting participation in a competitive summer internship program.\nRecipient of the Martha L. Abell Endowed Scholarship, Georgia Southern University ($1,490, 2025), awarded for outstanding academic performance in Mathematical Sciences.\nPharmaSUG 2025 Student Scholarship Recipient (June 2025), awarded for excellence in statistical programming and data analytics, enabling attendance at the PharmaSUG 2025 Conference.\nStudent Government Travel Award, Georgia Southern University (March 2025). Received a $500 travel grant to support attendance at PharmaDS 2025, recognizing academic excellence in statistics and data science applications in drug development.\nFred Hutch Cancer Center Travel Support Award, Seattle, WA (October 2024). Awarded $1,710.30 to participate in the Data Science for Environmental Health (DaSEH) Short Course.\nStatistics Quiz Award (February 28, 2024). Received a cash prize of ₦5,000 for outstanding performance in regression analysis during a departmental statistics quiz.\nCo-authored multiple peer-reviewed publications, including work on machine learning models for breast cancer prediction.\nSelected participant in the Data Science for Environmental Health (DaSEH) Short Course, Fred Hutch Cancer Center, supported by full travel funding.\nLed the development of an Electronic Health Record system for three clinics at Lagos State University Teaching Hospital, including retrospective data capture and database structuring.\nContributed to clinical trial randomization design, sample size determination, and statistical analysis for multiple health research projects in collaboration with national and international teams.\nDelivered statistical training in R and SPSS to over 100 early-career researchers, improving applied data analysis capacity across diverse audiences."
+  },
+  {
+    "objectID": "about.html#goals",
+    "href": "about.html#goals",
+    "title": "Motivation and Achievements",
+    "section": "Goals",
+    "text": "Goals\n\nShort-Term Goals\nIn the short term, I aim to deepen my expertise in Bayesian statistics, deep learning, and multi-omics data integration for predictive modeling in oncology and precision medicine. I am actively seeking research internships and collaborative opportunities in pharmaceutical data science and computational biology.\n\n\nLong-Term Goals\nMy long-term goal is to pursue a PhD in Statistics, Biostatistics, Bioinformatics, or Computational Biology, with a focus on integrating machine learning into cancer drug development, biomarker discovery, and drug resistance modeling.\nUltimately, I aim to contribute to the development of scalable, interpretable, and clinically impactful AI-driven solutions that advance personalized healthcare and accelerate biomedical discovery."
   }
 ]

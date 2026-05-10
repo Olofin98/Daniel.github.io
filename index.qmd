@@ -20,7 +20,7 @@ about:
       text: Google Scholar
       href: https://scholar.google.com/citations?view_op=list_works&hl=en&user=vACy4ucAAAAJ
     - icon: researchgate
-      text: ResearchGate
+      text: Research Gate
       href: https://www.researchgate.net/profile/Daniel-Olofin?ev=hdr_xprf
 ---
 

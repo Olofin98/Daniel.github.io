@@ -4,34 +4,57 @@ about:
   template: trestles
   image: mypicture.jpg
   links:
-    - icon: linkedIn
+    - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/daniel-olofin-0925443a7
     - icon: github
-      text: Github
+      text: GitHub
       href: https://github.com/Olofin98
-    - icon: Medium
+    - icon: medium
       text: Medium
       href: https://medium.com/@olofindantit
     - icon: email
       text: Email
-      href: "mailto:olofindantit@gmail.com"
-    - icon: Google Scholar
+      href: mailto:olofindantit@gmail.com
+    - icon: google-scholar
       text: Google Scholar
-      href: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=vACy4ucAAAAJ
-    - icon: Research Gate
-      text: Research Gate
+      href: https://scholar.google.com/citations?view_op=list_works&hl=en&user=vACy4ucAAAAJ
+    - icon: researchgate
+      text: ResearchGate
       href: https://www.researchgate.net/profile/Daniel-Olofin?ev=hdr_xprf
 ---
 
-### About Me
+## About Me
 
-Hello! I’m **Daniel Oluwafemi Olofin**, a passionate and driven Master’s student in **Mathematical Sciences (Statistics concentration)** at **Georgia Southern University**, USA. With a strong foundation in biostatistics and computational methodologies, I am deeply interested in leveraging data science, artificial intelligence, and statistical modeling to solve complex problems in healthcare, particularly within clinical trials and oncology drug development.
+Hello! I am **Daniel Oluwafemi Olofin**, a graduate student in **Mathematical Sciences (Statistics concentration)** at **Georgia Southern University, USA**.
 
-### Current Academic Focus
+My academic and research interests lie at the intersection of **biostatistics, machine learning, and computational biology**, with a strong focus on applications in **clinical research, oncology, and drug development**. I am particularly interested in how statistical and AI-driven methods can be used to improve **clinical decision-making, personalized medicine, and healthcare outcomes**.
 
-At Georgia Southern, my academic journey is centered on **biostatistical methods**, **computational biology**, and **AI applications in clinical research**. I am particularly interested in the development and application of **statistical machine learning techniques** to improve **drug discovery**, **personalized medicine**, and **oncology treatment outcomes**. My coursework and research experiences continue to strengthen my ability to bridge theory with real-world health challenges.
+---
 
-### Hobbies & Interests
+## Academic Focus
 
-Outside of academics and research, I enjoy reading research papers, solving statistical puzzles, occasionally competing in academic quizzes, playing guitar, listening to music, and indulging in Mortal Kombat for some fun and relaxation.
+My current training emphasizes:
+
+- Biostatistical theory and applied statistical modeling  
+- Computational biology and data-driven healthcare systems  
+- Machine learning methods for clinical and biomedical data  
+- Statistical applications in oncology and drug discovery  
+
+Through coursework and research, I aim to bridge **statistical methodology with real-world healthcare problems**, particularly in cancer research and precision medicine.
+
+---
+
+## Research Interests
+
+- Statistical machine learning in healthcare  
+- Cancer genomics and oncology data modeling  
+- Survival analysis and clinical trial methodology  
+- AI applications in drug discovery and biomarker identification  
+- High-dimensional and longitudinal biomedical data analysis  
+
+---
+
+## Hobbies & Interests
+
+Outside academia, I enjoy reading research papers, solving statistical problems, playing guitar, listening to music, and playing video games such as Mortal Kombat as a way to relax and recharge.

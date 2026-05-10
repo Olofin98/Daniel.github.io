@@ -33,7 +33,7 @@ Represented Georgia Southern University at the **UGA ASA DataFest 2026**, collab
 ---
 
 ### April 03, 2026  
-![Thesis Defense](CP_2.jpeg){fig-align="center" width="500px"}
+![Master's Thesis Defense](CP_2.jpeg){fig-align="center" width="500px"}
 
 Successfully defended my thesis titled *“Computational Maximum Likelihood Estimation for Nonlinear Compartmental ODE Epidemic Models with Correlated Time Series Errors.”* The work developed a computational framework integrating epidemic dynamics with time-series modeling to improve infectious disease inference and prediction.
 

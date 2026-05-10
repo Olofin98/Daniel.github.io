@@ -33,16 +33,17 @@ Represented Georgia Southern University at the **UGA ASA DataFest 2026**, collab
 ---
 
 ### April 03, 2026  
-![Conference Presentation](CP_2.jpeg){fig-align="center" width="500px"}
+![Thesis Defense](CP_2.jpeg){fig-align="center" width="500px"}
 
-Presented research on *likelihood-based estimation for nonlinear epidemic compartmental models with correlated error structures (AR/ARMA)* at the Central Botswana Mathematics and Statistical Sciences Conference IV. The work demonstrated improved inference and forecasting accuracy using maximum likelihood estimation and model comparison techniques.
+Successfully defended my thesis titled *“Computational Maximum Likelihood Estimation for Nonlinear Compartmental ODE Epidemic Models with Correlated Time Series Errors.”* The work developed a computational framework integrating epidemic dynamics with time-series modeling to improve infectious disease inference and prediction.
 
 ---
 
 ### March 13, 2026  
-![Thesis Defense](CP.jpeg){fig-align="center" width="500px"}
+![Conference Presentation](CP.jpeg){fig-align="center" width="500px"}
+Presented research on *likelihood-based estimation for nonlinear epidemic compartmental models with correlated error structures (AR/ARMA)* at the Central Botswana Mathematics and Statistical Sciences Conference IV. The work demonstrated improved inference and forecasting accuracy using maximum likelihood estimation and model comparison techniques.
 
-Successfully defended my thesis titled *“Computational Maximum Likelihood Estimation for Nonlinear Compartmental ODE Epidemic Models with Correlated Time Series Errors.”* The work developed a computational framework integrating epidemic dynamics with time-series modeling to improve infectious disease inference and prediction.
+
 
 </details>
 

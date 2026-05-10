@@ -12,9 +12,22 @@ title: "Updates and Events"
 <summary><strong>Click to expand 2026 updates</strong></summary>
 
 ### April 23, 2026  
-![GS4 2026 Symposium](RRR.jpeg){fig-align="center" width="500px"}
 
-Presented *“Computational Maximum Likelihood Estimation of Nonlinear Time Series Regression Models with Correlated ARMA Errors”* at GS4 2026. The work developed a computational framework for nonlinear time series regression with correlated error structures using Newton–Raphson maximum likelihood estimation to improve inference and predictive performance.
+:::: {.columns}
+
+::: {.column width="50%"}
+![GS4 2026 Symposium](RRR.jpeg){fig-align="center" width="100%"}
+:::
+
+::: {.column width="50%"}
+![GS4 2026 Symposium](RRRR.jpeg){fig-align="center" width="100%"}
+:::
+
+::::
+
+Presented *“Computational Maximum Likelihood Estimation of Nonlinear Time Series Regression Models with Correlated ARMA Errors”* at the GS4 2026 Student Scholar Symposium, Georgia Southern University.
+
+This research developed a computational framework for nonlinear time series regression models with correlated ARMA error structures using Newton–Raphson maximum likelihood estimation. The work demonstrated improved statistical inference, parameter estimation, and predictive performance for complex time-dependent systems.
 
 ---
 

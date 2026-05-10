@@ -32,7 +32,18 @@ This research developed a computational framework for nonlinear time series regr
 ---
 
 ### April 23, 2026  
-![Averitt Award: Excellence in Research](RR.jpeg){fig-align="center" width="500px"}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![Averitt Award: Excellence in Research](RR.jpeg){fig-align="center" width="100%"}
+:::
+
+::: {.column width="50%"}
+![Averitt Award: Excellence in Research](RRRRRR.jpeg){fig-align="center" width="100%"}
+:::
+
+::::
 
 Nominated for the **Averitt Award: Excellence in Research**, in recognition of outstanding research contributions, methodological rigor, and impactful data-driven work. This includes quantitative analysis, reproducible research practices, interdisciplinary collaboration, conference presentations, and scholarly outputs.
 
@@ -46,14 +57,29 @@ Represented Georgia Southern University at the **UGA ASA DataFest 2026**, collab
 ---
 
 ### April 03, 2026  
-![Master's Thesis Defense](CP_2.jpeg){fig-align="center" width="500px"}
 
-Successfully defended my thesis titled *“Computational Maximum Likelihood Estimation for Nonlinear Compartmental ODE Epidemic Models with Correlated Time Series Errors.”* The work developed a computational framework integrating epidemic dynamics with time-series modeling to improve infectious disease inference and prediction.
+:::: {.columns}
+
+::: {.column width="50%"}
+![Master's Thesis Defense](CP_2.jpeg){fig-align="center" width="100%"}
+:::
+
+::: {.column width="50%"}
+![Master's Thesis Defense](RRRRRRR.jpg){fig-align="center" width="100%"}
+:::
+
+::::
+
+Successfully defended my thesis titled *“Computational Maximum Likelihood Estimation for Nonlinear Compartmental ODE Epidemic Models with Correlated Time Series Errors.”*
+
+The work developed a computational framework integrating epidemic dynamics with time-series modeling to improve infectious disease inference and prediction.
+Why this works
 
 ---
 
 ### March 13, 2026  
 ![Conference Presentation](CP.jpeg){fig-align="center" width="500px"}
+
 Presented research on *likelihood-based estimation for nonlinear epidemic compartmental models with correlated error structures (AR/ARMA)* at the Central Botswana Mathematics and Statistical Sciences Conference IV. The work demonstrated improved inference and forecasting accuracy using maximum likelihood estimation and model comparison techniques.
 
 
